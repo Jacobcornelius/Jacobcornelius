@@ -4,7 +4,6 @@
 Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Computer Science Engineering in June,2023. Since then, I have been working in the cybersecurity industry for the past 9 months. My academic background and professional experience have equipped me with a solid foundation in computer science principles and practical skills in cybersecurity, allowing me to contribute effectively to protecting digital assets and mitigating security risks.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,7 +15,6 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network Monitoring and Sniffing tools
 <div>
@@ -78,13 +76,9 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEHv12-35A853?style=for-the-badge&logo=ec-Council&logoColor=white" />
 </div>
 
 ## Projects
