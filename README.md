@@ -18,11 +18,11 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Monitoring and Sniffing tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-1E90FF?style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ettercap-FF6347?style=for-the-badge&logo=Ettercap&logoColor=white" />
 </div>
 
 ### Scanning and Enumeration
@@ -31,14 +31,50 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
     <img src="https://img.shields.io/badge/-Nessus-000080?style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-00BB00?style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nikto-FF4500?style=for-the-badge&logo=Nikto&logoColor=white" />
-
 </div>
 
-### SIEM
+### Exploitation framework
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-5C5CFF?style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeEF-FF0000?style=for-the-badge&logo=BeEF&logoColor=white" />
+</div>
+
+### Password Cracking tools
+<div>
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B4513?style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-800080?style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-228B22?style=for-the-badge&logo=Hydra&logoColor=white" />
+</div>
+
+### Web application testing tools
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF7139?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge&logo=OWASP-ZAP&logoColor=white" />
+</div>
+
+### Wireless network tools
+<div>
+    <img src="https://img.shields.io/badge/-Aircrack--ng-00BFFF?style=for-the-badge&logo=Aircrack-ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kismet-FFD700?style=for-the-badge&logo=Kismet&logoColor=white" />
+</div>
+
+### Social Engineering tools
+<div>
+   <img src="https://img.shields.io/badge/-SET-FF4500?style=for-the-badge&logo=Python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Maltego-8B0000?style=for-the-badge&logo=Maltego&logoColor=white" />
+</div>
+
+### Operating system
+<div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot%20Security%20OS-005E6A?style=for-the-badge&logo=Parrot%20Security%20OS&logoColor=white" />
+</div>
+
+### Miscellaneous Tools
+<div>
+   <img src="https://img.shields.io/badge/-Netcat-0000FF?style=for-the-badge&logo=Netcat&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Sqlmap-9400D3?style=for-the-badge&logo=Sqlmap&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Empire-FF8C00?style=for-the-badge&logo=Empire&logoColor=white" />
 </div>
 
 ## Certifications
