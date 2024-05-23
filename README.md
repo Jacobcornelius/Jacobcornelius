@@ -28,7 +28,10 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 ### Scanning and Enumeration
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-000080?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-00BB00?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-FF4500?style=for-the-badge&logo=Nikto&logoColor=white" />
+
 </div>
 
 ### SIEM
