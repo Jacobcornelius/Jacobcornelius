@@ -11,7 +11,7 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 | Web application Penetration testing             |
 | Vulnerability Assessment and Management         |
 | Security with Automation tools                  |
-| Phising simulation                              | 
+| Phishing simulation                             | 
 | Automation and manuel scanning                  |
 | Scripting and Automation for Pentesting         |
 
