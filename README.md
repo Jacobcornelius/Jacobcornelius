@@ -1,18 +1,19 @@
 # Hello, I'm Jacob Cornelius
 <a href="https://www.linkedin.com/in/d-jacob-iniyan-cornelius-3141811aa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Computer Science Engineering in June,2023. Since then, I have been working in the cybersecurity industry for the past 9 months. My academic background and professional experience have equipped me with a solid foundation in computer science principles and practical skills in cybersecurity, allowing me to contribute effectively to protecting digital assets and mitigating security risks.
+Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Computer Science Engineering in June,2023. Since then, I have been working in the cybersecurity industry for the past 1.3 years. My academic background and professional experience have equipped me with a solid foundation in computer science principles and practical skills in cybersecurity and Offensive security, allowing me to contribute effectively to protecting digital assets and mitigating security risks.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           | 
+|-----------------------------------------------  |
+| Network Penetration testing                     | 
+| Web application Penetration testing             |
+| Vulnerability Assessment and Management         |
+| Security with Automation tools                  |
+| Phising simulation                              | 
+| Automation and manuel scanning                  |
+| Scripting and Automation for Pentesting         |
 
 ## Tools
 
@@ -35,6 +36,11 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-5C5CFF?style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeEF-FF0000?style=for-the-badge&logo=BeEF&logoColor=white" />
+</div>
+
+### Phishing Simulation
+<div>
+    <img src="https://img.shields.io/badge/-GoPhish-4285F4?style=for-the-badge&logo=gmail&logoColor=blue" />
 </div>
 
 ### Password Cracking tools
@@ -79,8 +85,11 @@ Hello! My name is D. Jacob Iniayn Cornelius. I graduated with a degree in Comput
 
 <div>
 <img src="https://img.shields.io/badge/-CEHv12-35A853?style=for-the-badge&logo=ec-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jr.%20Pentester-0078D4?style=for-the-badge&logo=TryHackMe&logoColor=Red" /> 
+<img src="https://img.shields.io/badge/-Burpsuite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=Orange" />    
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 10+ Network VAPT
+- 2+ Web VAPT
+- Phishing Simulation for organizations
